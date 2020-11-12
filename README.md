@@ -1,3 +1,11 @@
+Po sklonowaniu repozytorium należy zainstalować dependencje przy użyciu komendy
+
+### `npm i`
+
+Następnie aby zinicjalizować start serwera oraz aplikacji należy użyć komendy
+
+### `npm run start:dev`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
